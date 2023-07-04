@@ -1,8 +1,10 @@
 # Formats in addition to HTML
 
+
 formats:
-   - pdf
-   - none
+  - pdf
+  - epub
+   
 
 # Pip requirements
 requirements_file: ./requirements.txt
